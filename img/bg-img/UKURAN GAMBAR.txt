@@ -1,0 +1,7 @@
+ukuran standart
+601 *902
+
+ukuran menu ku
+552*800
+
+samakan jadi ukuran standart

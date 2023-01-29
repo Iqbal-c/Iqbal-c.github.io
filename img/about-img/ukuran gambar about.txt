@@ -1,0 +1,5 @@
+default gambar web
+1000*1000
+
+ukuran ku 
+620*1280
